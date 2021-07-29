@@ -12,6 +12,7 @@ variable <- 5
 
 (pi*2)^2 -> variable2
 
+
 x <- pi^2/2
 
 x
