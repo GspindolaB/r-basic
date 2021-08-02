@@ -63,3 +63,8 @@ Re(imaginario)
 Im(imaginario)
 
 # z = Mod(z) * cos(Arg(z)+ sin(Arg(z))i)
+imaginario2 <-complex(modulus = 2, argument = pi/2)
+
+Mod(imaginario2)
+Arg(imaginario2)
+pi/2
